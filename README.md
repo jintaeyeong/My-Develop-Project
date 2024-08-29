@@ -19,3 +19,15 @@
 앞으로 이 공간에는 아이디어, 고민, 개발일지 등등
 
 별거아닌 내용들도 기록하고, 개발을 하면서 생각나는 것들을 적어보겠습니닷
+
+
+## Medimemo App
+
+- 개발 환경
+Flutter(Android Studio, Dart)
+Spring Boot(IntelliJ, Kotlin)
+MySql(mySql workbench)
+
+- 추가 자료
+Draw.io로 앱 구조 및 DB 설계 예정
+공공APi https://www.data.go.kr/data/15075057/openapi.do 
