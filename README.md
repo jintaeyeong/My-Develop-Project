@@ -24,10 +24,15 @@
 ## Medimemo App
 
 - 개발 환경
+
 Flutter(Android Studio, Dart)
+
 Spring Boot(IntelliJ, Kotlin)
+
 MySql(mySql workbench)
 
 - 추가 자료
+
 Draw.io로 앱 구조 및 DB 설계 예정
+
 공공APi https://www.data.go.kr/data/15075057/openapi.do 
