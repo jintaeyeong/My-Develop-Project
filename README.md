@@ -33,6 +33,8 @@ MySql(mySql workbench)
 
 - 추가 자료
 
-Draw.io로 앱 구조 및 DB 설계 예정
+draw.io 구조 설계 : [draw.io](https://app.diagrams.net/#Hjintaeyeong%2FProject%2Fmain%2FMedimemo.drawio.svg#%7B%22pageId%22%3A%22g9aJjr5Ehcb7us4ySCku%22%7D)
 
-공공APi https://www.data.go.kr/data/15075057/openapi.do 
+피그마 UI/UX 설계 : [figma](https://www.figma.com/design/86l8FcoLOhBwpdDJPOPrgp/MediMemo?node-id=1224-1875&node-type=CANVAS&t=f4y0FgWAxlNy9p0j-0)
+
+공공APi [api](https://www.data.go.kr/data/15075057/openapi.do)
